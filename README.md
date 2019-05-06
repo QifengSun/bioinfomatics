@@ -4,3 +4,4 @@
 ### 1.2 安装 虚拟机 
 ![](https://www.virtualbox.org/graphics/button60.png)
 (https://www.virtualbox.org/) 或 [VMWare](https://www.vmware.com/go/getworkstation-win)
+![事件日志](https://raw.githubusercontent.com/SoftwareKing/cdn/master/images/me20190410195322.png)
