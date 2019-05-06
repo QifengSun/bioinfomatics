@@ -5,4 +5,4 @@
 ## 3 安装 Linux
 ### 3.1 下载 Linux
 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
-### 3.2 安装 Linux 至虚拟机
+### 3.2 安装
