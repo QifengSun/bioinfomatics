@@ -1,4 +1,4 @@
-# 生物信息分析化境搭建
+# 生物信息分析环境搭建
 ## 1 安装 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
 ## 2 安装 虚拟机 
 [VM Ware](https://www.vmware.com/go/getworkstation-win) 或 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
