@@ -17,7 +17,7 @@ Linux 内核 ------- Red Hat Enterprise Linux （商业版）
              |--- Debian
              |--- ...
 ```
-CentOS 与 Ubuntu 是由 Linux 系统衍生出来的两个版本。
+CentOS 与 Ubuntu 是由 Linux 内核衍生出来的版本。
 
 ## 4 创建虚拟机
 
