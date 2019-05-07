@@ -105,48 +105,49 @@ NAT（Network Address Translation，网络地址转换)
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_8.png)
 
-21 单击 【OFF】->【ON】开启网卡连接
-
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_9.png)
+单击 【OFF】->【ON】开启网卡连接
 
 单击 【Configure...】
 
-22 单击 【IPv4 Settings】选项卡 
+21 单击 【IPv4 Settings】选项卡 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_9.png)
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_10.png)
 
-23 虚拟主机的网卡配置修改如下
+22 虚拟主机的网卡配置修改如下
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_11.png)
 
 单击 【Save】
 
-24 
+23 
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_12.png)
 
-27 
+24 
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_13.png)
 
-28 
+25 
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_14.png)
 
-29 
+26 
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_15.png)
 
-30 
+27 
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_16.png)
 
-31 
+28 
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_17.png)
 
-32 
+29
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_18.png)
 
-33 
+30 
 
