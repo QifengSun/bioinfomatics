@@ -1,4 +1,7 @@
 # 生物信息分析环境搭建
+
+---
+
 ## 1 下载&安装 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
 
 虚拟机使用 Java 语言开发，需要提供虚拟机运行的环境。
@@ -28,9 +31,11 @@ CentOS 与 Ubuntu 是由 Linux 内核衍生出来的版本。
   或者 单击 【主页】 下的 【创建新的虚拟机】
 
 4
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_1.png)
 
 5
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_2.png)
 
 6 指定待安装的操作系统
@@ -148,3 +153,10 @@ NAT（Network Address Translation，网络地址转换)
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_18.png)
 
 30 
+\▶
+(▶)
+[▶]
+`▶`
+``▶``
+```▶```
+"▶"
