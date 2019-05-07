@@ -29,7 +29,7 @@
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_5.png)
 
-9 自定义
+9 自定义硬件
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_6.png)
 
@@ -48,3 +48,5 @@
 13
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_10.png)
+
+14 完成
