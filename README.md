@@ -4,15 +4,11 @@
 虚拟机使用 Java 语言开发，需要提供虚拟机运行的环境。
 
 ## 2 下载&安装 虚拟机
-## 1 安装 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
-## 2 安装 虚拟机 
 [VMware](https://www.vmware.com/go/getworkstation-win) 或 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
 在操作系统之上，提供 Linux 等其他操作系统运行的虚拟环境。
 
 ## 3 下载 Linux
-## 3 安装 Linux
-### 3.1 下载 Linux
 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
 ```
 Linux 内核 ------- Red Hat Enterprise Linux （商业版）
@@ -25,29 +21,27 @@ CentOS 与 Ubuntu 是由 Linux 内核衍生出来的版本。
 
 ## 4 创建虚拟机
 
-### 3.2 安装
 现以 VMware 为例，演示 CentOS 安装过程。
 
-&#9654;
 1 运行 VMware -> 2 单击 【文件】主菜单 -> 3 单击 【新建虚拟机】菜单项 
 
   或者 单击 【主页】 下的 【创建新的虚拟机】
-@@ -35,119 +20,45 @@ CentOS 与 Ubuntu 是由 Linux 内核衍生出来的版本。
 
+4
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_1.png)
+
+5
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_2.png)
 
 6 指定待安装的操作系统
-6
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_3.png)
 
 7 指定虚拟机文件存放位置
-7
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_4.png)
 
 8 指定虚拟机硬盘大小上限，随着虚拟机里的文件大小动态扩容的。
-8
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_5.png)
 
@@ -56,22 +50,18 @@ CentOS 与 Ubuntu 是由 Linux 内核衍生出来的版本。
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_6.png)
 
 10 指定分配给虚拟机的内存大小
-10
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_7.png)
 
 11 指定处理器的数量，与内核数量，以本机实际的处理器数量与内核数量为限
-11
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_8.png)
 
 12 指定安装 Linux 的 ISO 镜像文件
-12
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_9.png)
 
 13 配置虚拟机网络适配器的网络连接模式
-13
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_10.png)
 
@@ -83,8 +73,7 @@ NAT（Network Address Translation，网络地址转换)
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_11.png)
 
-15 单击 【▶开启此虚拟机】
-15 单击 【开启此虚拟机】
+15 单击 【```▶```开启此虚拟机】
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_1.png)
 
