@@ -1,4 +1,4 @@
-生物信息分析环境搭建
+<span style="font-size:60px;">生物信息分析环境搭建</span>
 
 ---
 
