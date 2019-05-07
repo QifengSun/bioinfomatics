@@ -75,7 +75,7 @@ NAT（Network Address Translation，网络地址转换)
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_11.png)
 
-15 单击 【开启此虚拟机】
+15 单击 【▶开启此虚拟机】
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_1.png)
 
