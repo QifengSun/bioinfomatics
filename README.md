@@ -153,28 +153,32 @@ NAT（Network Address Translation，网络地址转换)模式，通过虚拟的�
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_13.png)
 
 
-25 单击 【ROORPASSWORD】 设置 root 账户密码
+25 账户管理 
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_14.png)
 
-root 为 Linux 系统的超级管理员账户。
-
-26 单击 【USER CREATION】 创建用户
+26 单击 【ROORPASSWORD】 设置 root 账户密码
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_15.png)
 
+root 为 Linux 系统的超级管理员账户。
 
-27 
+单击 【Done】
+
+27 单击 【USER CREATION】 创建用户
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_16.png)
 
+勾选 【√ Make this user administrator】 使该用户具有 sudo 权限。具有 sudo 权限的用户可以管理员的方式执行程序。
 
-28 
+单击 【Done】
+
+28 单击 【Finish configuration】
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_17.png)
 
 
-29
+29 等待安装完毕
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_18.png)
 
