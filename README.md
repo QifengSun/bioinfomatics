@@ -56,5 +56,5 @@
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_11.png)
 
-15 单击 【<font color="green">▶</font >开启此虚拟机】
+15 单击 【▶开启此虚拟机】
 
