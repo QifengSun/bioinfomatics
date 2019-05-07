@@ -89,9 +89,7 @@ NAT（Network Address Translation，网络地址转换)
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_4.png)
 
-18 
-
- 将时区修改为上海
+18 将时区修改为上海
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_5.png)
 
