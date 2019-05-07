@@ -2,10 +2,23 @@
 
 ## 1 下载&安装 
 
-下载 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
+### 1.1 下载 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
 
-虚拟机使用 Java 语言开发，需要提供虚拟机运行的环境。
+虚拟机使用 Java 语言开发，因此需要 JDK 提供虚拟机运行的环境。
 
+### 1.2 添加 `JAVA_HOME` 环境变量
+
+1 右击 桌面【此电脑】图标 -> 2 单击 【属性】
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_1.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_2.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_3.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_4.png)
+
+关闭对话框
 
 ## 2 下载&安装 虚拟机
 
@@ -205,7 +218,7 @@ root 为 Linux 系统的超级管理员账户。
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_21.png)
 
 
-出现提示符 $_ 登陆成功
+出现提示符 `$_` 登陆成功
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_22.png)
 
