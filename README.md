@@ -6,8 +6,9 @@
 ### 3.1 下载 Linux
 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
 ### 3.2 安装
-现以 VMware 演示
-打开 1 VMware -> 2 文件 -> 3 新建虚拟机
+现以 VMware 为例，演示 CentOS 安装过程。
+
+1 运行 VMware -> 2 单击 【文件】主菜单 -> 3 单击 【新建虚拟机】菜单项
 
 4
 
