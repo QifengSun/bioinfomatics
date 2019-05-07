@@ -7,6 +7,24 @@
 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
 ### 3.2 安装
 现以 VMware 演示
-打开 VMware -> 文件 -> 新建虚拟机
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_1.png)
+打开 1 VMware -> 2 文件 -> 3 新建虚拟机
+
+![4](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_1.png)
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_2.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_3.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_4.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_5.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_6.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_7.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_8.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_9.png)
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_10.png)
