@@ -190,7 +190,11 @@ root 为 Linux 系统的超级管理员账户。
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_20.png)
 
+输入用户名、密码
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_21.png)
+
+出现提示符 $_ 登陆成功
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_22.png)
 
