@@ -58,3 +58,7 @@
 
 15 单击 【开启此虚拟机】
 
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_1.png)
+
+16 
+
