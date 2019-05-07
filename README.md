@@ -10,31 +10,41 @@
 打开 1 VMware -> 2 文件 -> 3 新建虚拟机
 
 4
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_1.png)
 
 5
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_2.png)
 
 6
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_3.png)
 
 7
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_4.png)
 
 8
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_5.png)
 
-9
+9 自定义
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_6.png)
 
 10
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_7.png)
 
 11
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_8.png)
 
 12
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_9.png)
 
 13
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_10.png)
