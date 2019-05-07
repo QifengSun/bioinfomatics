@@ -194,5 +194,3 @@ root 为 Linux 系统的超级管理员账户。
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_22.png)
 
-
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_18.png)
