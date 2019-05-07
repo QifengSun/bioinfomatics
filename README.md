@@ -50,4 +50,7 @@
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_10.png)
 
-14 完成
+14 单击 【完成】
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_11.png)
+
