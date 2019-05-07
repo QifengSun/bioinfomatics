@@ -183,16 +183,21 @@ root 为 Linux 系统的超级管理员账户。
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_18.png)
 
+
 16 单击 【Reboot】重启虚拟机
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_19.png)
+
 
 ## 6 Linux 登陆
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_20.png)
 
+
 输入用户名、密码
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_21.png)
+
 
 出现提示符 $_ 登陆成功
 
