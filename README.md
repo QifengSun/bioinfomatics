@@ -1,11 +1,11 @@
 # 生物信息分析环境搭建
-## 1 安装 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
-## 2 安装 虚拟机 
+## 1 下载&安装 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
+## 2 下载&安装 虚拟机 
 [VMware](https://www.vmware.com/go/getworkstation-win) 或 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
-## 3 安装 Linux
-### 3.1 下载 Linux
+## 3 下载 Linux
 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
-### 3.2 安装
+## 4 创建虚拟机
+
 现以 VMware 为例，演示 CentOS 安装过程。
 
 1 运行 VMware -> 2 单击 【文件】主菜单 -> 3 单击 【新建虚拟机】菜单项 
@@ -61,4 +61,72 @@
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_1.png)
 
 16 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_2.png)
+
+17
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_3.png)
+
+18 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_4.png)
+
+19 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_5.png)
+
+20
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_6.png)
+
+21 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_7.png)
+
+22 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_8.png)
+
+23 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_9.png)
+
+24 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_10.png)
+
+25 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_11.png)
+
+26 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_12.png)
+
+27 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_13.png)
+
+28 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_14.png)
+
+29 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_15.png)
+
+30 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_16.png)
+
+31 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_17.png)
+
+32 
+
+![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_18.png)
+
+33 
 
