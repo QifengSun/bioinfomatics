@@ -11,11 +11,11 @@
 ## 3 下载 Linux
 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
 ```
-Linux 内核 ---- RedHat（商业版）
-           |            |--- CentOS （RedHat 开源版）
-           |-- Ubuntu
-           |-- Debian
-           | ...
+Linux 内核 ------- Red Hat Enterprise Linux （商业版）
+             |                |--- CentOS (Community Enterprise Operating System, RedHat 开源版）
+             |--- Ubuntu
+             |--- Debian
+             |--- ...
 ```
 CentOS 与 Ubuntu 是由 Linux 系统衍生出来的两个版本。
 
