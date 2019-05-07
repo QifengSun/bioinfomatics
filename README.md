@@ -1,18 +1,23 @@
 # 生物信息分析环境搭建
 
-## 1 下载&安装 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
+## 1 下载&安装 
+
+下载 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
 
 虚拟机使用 Java 语言开发，需要提供虚拟机运行的环境。
 
 
 ## 2 下载&安装 虚拟机
-[VMware](https://www.vmware.com/go/getworkstation-win) 或 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+
+下载 [VMware](https://www.vmware.com/go/getworkstation-win) 或 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
 在操作系统之上，提供 Linux 等其他操作系统运行的虚拟环境。
 
 
 ## 3 下载 Linux
-[CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
+
+下载 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
+
 ```
 Linux 内核 ------- Red Hat Enterprise Linux （商业版）
              |                |--- CentOS (Community Enterprise Operating System, RedHat 开源版）
@@ -20,6 +25,7 @@ Linux 内核 ------- Red Hat Enterprise Linux （商业版）
              |--- Debian
              |--- ...
 ```
+
 CentOS 与 Ubuntu 是由 Linux 内核衍生出来的版本。
 
 
@@ -205,13 +211,13 @@ root 为 Linux 系统的超级管理员账户。
 
 ## 7 下载 & 安装 远程登录工具
 
-[XShell](https://www.netsarang.com/zh/xshell/) 或 [putty](http://www.putty.org/)
+下载 [XShell](https://www.netsarang.com/zh/xshell/) 或 [putty](http://www.putty.org/)
 
 putty 需使用翻墙软件，如 [Latern 蓝灯](https://github.com/getlantern/lantern) 绕过IP封锁，方可从官网下载。
 
 ## 8 下载 & 安装 FTP 客户端工具
 
-[XFTP](https://www.netsarang.com/zh/xftp/) 或 [FileZilla](https://filezilla-project.org/)
+下载 [XFTP](https://www.netsarang.com/zh/xftp/) 或 [FileZilla](https://filezilla-project.org/)
 
 ## 9 远程连接配置
 
