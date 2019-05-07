@@ -203,3 +203,15 @@ root 为 Linux 系统的超级管理员账户。
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_22.png)
 
+## 7 下载 & 安装 远程登录工具
+
+[XShell](https://www.netsarang.com/zh/xshell/) 或 [putty](http://www.putty.org/)
+
+putty 需使用翻墙软件，如 [Latern 蓝灯](https://github.com/getlantern/lantern) 绕过IP封锁，方可从官网下载。
+
+## 8 下载 & 安装 FTP 客户端工具
+
+[XFTP](https://www.netsarang.com/zh/xftp/) 或 [FileZilla](https://filezilla-project.org/)
+
+## 9 远程连接配置
+
