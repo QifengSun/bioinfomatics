@@ -8,4 +8,5 @@
 ### 3.2 安装
 现以 VMware 演示
 打开 VMware -> 文件 -> 新建虚拟机
-![](https://github.com/QifengSun/bioinfomatics/png/新建虚拟机向导.png)
+![](https://github.com/QifengSun/bioinfomatics/png/vmware_1.png)
+![](https://github.com/QifengSun/bioinfomatics/png/vmware_2.png)
