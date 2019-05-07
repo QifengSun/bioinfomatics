@@ -122,9 +122,10 @@ NAT（Network Address Translation，网络地址转换)模式，通过虚拟的�
 
 20 单击 【NETWORK & HOSTNAME】配置虚拟主机的网卡
 
+单击 【OFF】->【ON】开启网卡连接
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_8.png)
 
-单击 【OFF】->【ON】开启网卡连接
 
 单击 【Configure...】
 
@@ -142,23 +143,23 @@ NAT（Network Address Translation，网络地址转换)模式，通过虚拟的�
 
 单击 【Save】
 
-
-23 
+23 单击 【Done】 
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_12.png)
 
 
-24 
+24 单击 【Begin Installation】
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_13.png)
 
 
-25 
+25 单击 【ROORPASSWORD】 设置 root 账户密码
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_14.png)
 
+root 为 Linux 系统的超级管理员账户。
 
-26 
+26 单击 【USER CREATION】 创建用户
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_15.png)
 
