@@ -30,7 +30,7 @@
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_5.png)
 
-9 自定义硬件
+9 单击 【自定义硬件...】
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_6.png)
 
