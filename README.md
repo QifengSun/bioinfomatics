@@ -16,7 +16,7 @@
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_2.png)
 
-5 单击 【新建...】
+5 单击 【新建(N)...】
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_3.png)
 
