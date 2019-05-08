@@ -12,9 +12,15 @@
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_1.png)
 
+4 单击 【环境变量...】
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_2.png)
 
+5 单击 【新建...】
+
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_3.png)
+
+6 输入【变量名】`JAVA_HOME` 变量值 `java 安装目录`
 
 ![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_4.png)
 
