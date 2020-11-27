@@ -4,13 +4,13 @@
 #### hg19
 ##### URL
 ###### HTTP
-<http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/>  
-<http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz>  
-<http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz>  
+><http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/>  
+><http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz>  
+><http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz>  
 ###### FTP
-ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/  
-ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz  
-ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz  
+>ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/  
+>ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz  
+>ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz  
 #### hg38
 ##### URL
 ###### HTTP
