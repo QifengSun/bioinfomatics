@@ -9,7 +9,7 @@
 ### 1.2 添加 `JAVA_HOME` 环境变量
 
 1 右击 桌面 【此电脑】 图标 -> 2 单击 【属性】-> 3 单击 【高级系统设置】
-
+<img src="https://github.com/QifengSun/bioinfomatics/tree/master/png/java_home_1.png">
 ![](https://github.com/QifengSun/bioinfomatics/tree/master/png/java_home_1.png)
 
 4 单击 【环境变量...】
