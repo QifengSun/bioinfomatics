@@ -3,7 +3,7 @@
 下载 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
 ### from UCSC
 #### hg19
-
+1233
 ##### URL
 [ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/)
 [ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz)
