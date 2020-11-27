@@ -5,9 +5,7 @@
 #### hg19
 1233
 ##### URL
-下载 [ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/) 
-或 [Ubuntu](https://www.ubuntu.com/download/desktop)
-[ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/)
+<a href="ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/">ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/</a>
 [ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz)
 [ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz)
 
