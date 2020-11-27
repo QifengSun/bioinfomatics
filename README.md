@@ -10,19 +10,19 @@
 
 1 右击 桌面 【此电脑】 图标 -> 2 单击 【属性】-> 3 单击 【高级系统设置】
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_1.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/java_home_1.png)
 
 4 单击 【环境变量...】
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_2.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/java_home_2.png)
 
-5 单击 【新建(N)...】
+5 单击 【新建(N)...】tree
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_3.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/java_home_3.png)
 
 6 输入【变量名】`JAVA_HOME` 变量值 `java 安装目录`
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/java_home_4.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/java_home_4.png)
 
 关闭对话框
 
@@ -59,89 +59,89 @@ CentOS 与 Ubuntu 是由 Linux 内核衍生出来的版本。
 
 4
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_1.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_1.png)
 
 
 5
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_2.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_2.png)
 
 
 6 指定待安装的操作系统
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_3.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_3.png)
 
 
 7 指定虚拟机文件存放位置
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_4.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_4.png)
 
 
 8 指定虚拟机硬盘大小上限，随着虚拟机里的文件大小动态扩容的。
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_5.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_5.png)
 
 
 9 单击 【自定义硬件...】
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_6.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_6.png)
 
 
 10 指定分配给虚拟机的内存大小
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_7.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_7.png)
 
 
 11 指定处理器的数量，与内核数量，以本机实际的处理器数量与内核数量为限
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_8.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_8.png)
 
 
 12 指定安装 Linux 的 ISO 镜像文件
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_9.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_9.png)
 
 
 13 配置虚拟机网络适配器的网络连接模式
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_10.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_10.png)
 
 NAT（Network Address Translation，网络地址转换)模式，通过虚拟的网卡（网关:192.168.43.1，DNS:192.168.43.2)，实现虚拟内网主机 (192.168.43.100, 192.168.43.101 ...) 与 外网的连接。
 
 
 14 单击 【完成】
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/vmware_11.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/vmware_11.png)
 
 ## 5 Linux 安装
 
 1 单击 【```▶```开启此虚拟机】
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_1.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_1.png)
 
 
 2 指定语言
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_2.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_2.png)
 
 
 3 单击 【Date & Time】修改时区
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_3.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_3.png)
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_4.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_4.png)
 
 
 4 将时区修改为上海
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_5.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_5.png)
 
 
 5 单击 【INSTALLATION DESTINATION】指定 Linux 安装的虚拟磁盘位置
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_6.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_6.png)
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_7.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_7.png)
 
 单击 【Done】
 
@@ -150,7 +150,7 @@ NAT（Network Address Translation，网络地址转换)模式，通过虚拟的�
 
 单击 【OFF】->【ON】开启网卡连接
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_8.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_8.png)
 
 
 单击 【Configure...】
@@ -158,34 +158,34 @@ NAT（Network Address Translation，网络地址转换)模式，通过虚拟的�
 
 7 单击 【IPv4 Settings】选项卡 
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_9.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_9.png)
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_10.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_10.png)
 
 
 8 虚拟主机的网卡配置修改如下
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_11.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_11.png)
 
 单击 【Save】
 
 9 单击 【Done】 
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_12.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_12.png)
 
 
 10 单击 【Begin Installation】
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_13.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_13.png)
 
 
 11 账户管理 
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_14.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_14.png)
 
 12 单击 【ROORPASSWORD】 设置 root 账户密码
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_15.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_15.png)
 
 root 为 Linux 系统的超级管理员账户。
 
@@ -193,7 +193,7 @@ root 为 Linux 系统的超级管理员账户。
 
 13 单击 【USER CREATION】 创建用户
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_16.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_16.png)
 
 勾选 【√ Make this user administrator】 使该用户具有 sudo 权限。具有 sudo 权限的用户可以管理员的方式执行程序。
 
@@ -201,32 +201,32 @@ root 为 Linux 系统的超级管理员账户。
 
 14 单击 【Finish configuration】
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_17.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_17.png)
 
 
 15 等待安装完毕
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_18.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_18.png)
 
 
 16 单击 【Reboot】重启虚拟机
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_19.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_19.png)
 
 
 ## 6 Linux 登陆
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_20.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_20.png)
 
 
 输入用户名、密码
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_21.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_21.png)
 
 
 出现提示符 `$_` 登陆成功
 
-![](https://github.com/QifengSun/bioinfomatics/blob/master/png/CentOS_22.png)
+![](https://github.com/QifengSun/bioinfomatics/tree/master/png/CentOS_22.png)
 
 ## 7 下载 & 安装 远程登录工具
 
