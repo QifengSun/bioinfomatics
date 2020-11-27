@@ -41,7 +41,7 @@
 chromosomes.  
 The chrUn_* sequences are unlocalized sequences where the corresponding
 reference chromosome has not been determined.](https://hgdownload.cse.ucsc.edu/goldenpath/hg38/chromosomes/)
-[apd cox dbb mann mcf qbl ssto are the 8 haplotypes for the chromosome 6 MHC region.](https://vega.archive.ensembl.org/info/data/MHC_Homo_sapiens.html)
+[apd cox dbb mann mcf qbl ssto are the 8 haplotypes for the chromosome 6 MHC region.](https://vega.archive.ensembl.org/info/data/MHC_Homo_sapiens.html)  
 [Assembly Terminology](https://www.ncbi.nlm.nih.gov/grc/help/definitions/)
 
 url
