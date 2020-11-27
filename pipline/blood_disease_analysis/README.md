@@ -40,7 +40,7 @@
 \[reference\]  
 1.[The chr\*_random sequences are unplaced sequence on those reference
 chromosomes.](https://hgdownload.cse.ucsc.edu/goldenpath/hg38/chromosomes/)  
-2.[The chrUn\* sequences are unlocalized sequences where the corresponding
+2.[The chrUn_\* sequences are unlocalized sequences where the corresponding
 reference chromosome has not been determined.](https://hgdownload.cse.ucsc.edu/goldenpath/hg38/chromosomes/)  
 3.[apd cox dbb mann mcf qbl ssto are the 8 haplotypes for the chromosome 6 MHC region.](https://vega.archive.ensembl.org/info/data/MHC_Homo_sapiens.html)  
 4.[Assembly Terminology](https://www.ncbi.nlm.nih.gov/grc/help/definitions/) 
