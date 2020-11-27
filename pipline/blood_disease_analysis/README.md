@@ -1,6 +1,6 @@
 # Blood Disease Analysis Pipline
 ## reference
-
+下载 [CentOS](https://www.centos.org/) 或 [Ubuntu](https://www.ubuntu.com/download/desktop)
 ### from UCSC
 #### hg19
 
