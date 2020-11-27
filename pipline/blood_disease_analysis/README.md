@@ -13,7 +13,8 @@
 
 #### hg38
 ##### URL
-[ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/)
+<ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/>
+ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/
 [ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz)
 [ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.chromFa.tar.gz](ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.chromFa.tar.gz)
 
